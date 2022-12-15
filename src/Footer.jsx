@@ -8,7 +8,6 @@ function Footer() {
         <div className='footer--btns'>
             <button onClick={() => openInNewTab("https://github.com/dyarmsh")}><i className="fa fa-github"></i></button>
             <button onClick={() => openInNewTab("https://www.instagram.com/dyar.code/")}><i className="fa fa-instagram"></i></button>
-            <button onClick={() => openInNewTab("https://diyaracreek.wixsite.com/ecstasy/blog")}><i className="fa fa-book"></i></button>
             <button onClick={() => openInNewTab("https://open.spotify.com/user/diyaracreek?si=938034b659674c67")}><i className="fa fa-spotify"></i></button>
         </div>
         
